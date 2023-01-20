@@ -22,7 +22,6 @@
 
 {
     let inicio = 10;
-    let subtracao = 2;
 
     inicio--;
 
